@@ -25,12 +25,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### ⏳ My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sagyndyk11&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **Sagyndyk11/Sagyndyk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
