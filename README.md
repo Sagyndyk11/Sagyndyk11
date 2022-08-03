@@ -10,7 +10,7 @@
 ---
 
 ### 🥷 About me:
-- 🔭 I am a beginning web developer.
+- 🔭 I am a beginning web developer from Kazakhstan.
 - ✨ I know HTML, CSS and Bootstrap.
 - 🌱 I am currently learning JS.
 - ⚡ In my free time, I do web development.
